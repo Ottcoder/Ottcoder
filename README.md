@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Ottcoder
-- 👀 I’m interested in getting started on my coding journey.
-- 🌱 I’m currently learning HTML, CSS and Javascript as part of a coding bootcamp.
+- 👋 Hi, I’m Curt Smith aka @Ottcoder
+- 🌱 I’m currently learning HTML, CSS and Javascript as part of the school of code coding bootcamp.
 - 💞️ I’m looking to collaborate on starter projects and ideas.
+
+<img src="https://www.codewars.com/users/ottcoder/badges/small"/>
 
 <!---
 Ottcoder/Ottcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
