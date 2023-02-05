@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Curt Smith aka @Ottcoder
-- 🌱 I’m currently learning HTML, CSS and Javascript as part of the school of code coding bootcamp.
+- 🌱 I’m have recently finished the School of Code coding bootcamp and am looking for my first role in tech.
 - 💞️ I’m looking to collaborate on starter projects and ideas.
 
 <img src="https://www.codewars.com/users/Ottcoder/badges/small"></img>
